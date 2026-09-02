@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "cname": "Python",
+            "fees": 1200,
+            "duration": "2 months"
+        },
+        {
+            "cname": "Java",
+            "fees": 1500,
+            "duration": "3 months"
+        },
+        {
+            "cname": "C++",
+            "fees": 1000,
+            "duration": "2 months"
+        }
+    ]
+}

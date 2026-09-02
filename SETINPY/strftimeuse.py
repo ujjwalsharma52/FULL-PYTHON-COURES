@@ -1,19 +1,23 @@
-import datetime #IT GIVE CURRRNT TIME
+import datetime
 
-x=datetime.datetime.now()
-m=x.strftime("%Y")#ye century bhi dega and year bhi full
-n=x.strftime("%y")#is ka output sirf 26 matlb only year dega century nahin dega
-o=x.strftime("%b")#haif name of month name example aug not full name
-p=x.strftime("%B")#it give full name of month name example august
-q=x.strftime("%M")#it give minates
-r=x.strftime("%m")#it give month in number
-s=x.strftime("%S")#it give sec
-t=x.strftime("%H")#it give time according to 24 means train type
-u=x.strftime("%I")#it give time according to 12 means watch type
-v=x.strftime("%p")#it give AM/PM
+# It gives current date and time
+x = datetime.datetime.now()
 
+m = x.strftime("%Y")   # Full year with century: 2026
+n = x.strftime("%y")   # Only last two digits of year: 26
 
-#print(x) 
+o = x.strftime("%b")   # Short month name: Aug
+p = x.strftime("%B")   # Full month name: August
+
+q = x.strftime("%M")   # Minutes
+r = x.strftime("%m")   # Month number
+
+s = x.strftime("%S")   # Seconds
+
+t = x.strftime("%H")   # Hour in 24-hour format
+u = x.strftime("%I")   # Hour in 12-hour format
+
+v = x.strftime("%p")   # AM/PM
 
 print(m)
 print(n)
@@ -26,5 +30,15 @@ print(t)
 print(u)
 print(v)
 
-
-#print(datetime.datetime(2024,7,19))
+#/| Code | Meaning      | Example  |
+#/| ---- | ------------ | -------- |
+#/| `%Y` | Full year    | `2026`   |
+#/| `%y` | Short year   | `26`     |
+#/| `%b` | Short month  | `Aug`    |
+#/| `%B` | Full month   | `August` |
+#/| `%m` | Month number | `08`     |
+#/| `%M` | Minutes      | `05`     |
+#/| `%S` | Seconds      | `30`     |
+#/| `%H` | 24-hour      | `14`     |
+#/| `%I` | 12-hour      | `02`     |
+#/| `%p` | AM/PM        | `PM`     |

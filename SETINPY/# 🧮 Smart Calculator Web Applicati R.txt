@@ -1,0 +1,87 @@
+# 🧮 Smart Calculator Web Application
+
+A powerful and modern **Smart Calculator Web Application** developed using **Python Flask**, **HTML5**, **CSS3**, and **JavaScript**.  
+This project combines a beautiful frontend interface with a Python backend to perform real-time mathematical calculations efficiently.
+
+The application is designed to provide users with an interactive and responsive calculator experience directly from the browser.
+
+---
+
+# 🚀 Project Overview
+
+The Smart Calculator is a web-based application that allows users to perform:
+
+- Basic Arithmetic Operations
+- Scientific Calculations
+- Real-Time Expression Evaluation
+- Interactive User Interface Operations
+
+The project demonstrates the integration of:
+
+- Frontend Development
+- Backend Development
+- API Communication
+- Flask Web Framework
+- Dynamic User Interaction
+
+---
+
+# ✨ Key Features
+
+## 🔢 Basic Arithmetic Operations
+
+Users can perform all standard arithmetic operations:
+
+- Addition (+)
+- Subtraction (-)
+- Multiplication (×)
+- Division (÷)
+- Decimal Calculations
+
+---
+
+## 📐 Scientific Calculator Functions
+
+The calculator also includes advanced scientific operations:
+
+- Square Root
+- Power Calculation
+- Sine Function
+- Cosine Function
+- Tangent Function
+- Logarithm Calculation
+
+---
+
+## 🌐 Web Application Features
+
+- Responsive Design
+- Attractive User Interface
+- Real-Time Result Display
+- Browser-Based Execution
+- Fast Backend Processing
+- Interactive Button Layout
+- Mobile Friendly Design
+
+---
+
+# 🛠️ Technologies Used
+
+## Backend Technologies
+
+| Technology | Purpose |
+
+| Python     | Backend Programming |
+| Flask      | Web Framework |
+
+
+
+## Frontend Technologies
+
+| Technology | Purpose |
+
+| HTML5      | Structure |
+| CSS3       | Styling |
+| JavaScript | Functionality |
+
+
