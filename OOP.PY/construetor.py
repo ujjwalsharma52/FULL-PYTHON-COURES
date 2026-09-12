@@ -1,5 +1,9 @@
 class democlass:
   a=10
+  def __init__(self):
+    print("ujjwal sharma")
+    
+    
   def showvalue(self):
     self.c=self.a*self.a
     print(self.c)
